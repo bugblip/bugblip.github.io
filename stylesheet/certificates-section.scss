@@ -1,0 +1,15 @@
+.certificates {
+    margin-top: 0;
+
+    .certificate-row {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 60px;
+
+        img {
+            width: 120px;
+            height: 120px;
+            margin-right: 0;
+        }
+    }
+}
