@@ -1,1 +1,0 @@
-# sharan-aadarsh.github.io
